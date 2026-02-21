@@ -1,4 +1,3 @@
-import numpy as np
 import pandas as pd
 
 from .utils import normalize_country
@@ -111,9 +110,33 @@ def normalize_data(file_path="Work & Travel merged.xlsx", max_living_cost=None):
     df_filtered.to_excel(file_path)
 
 
-def weight_dataset(file_path="Work & Travel normalized.xlsx"):
+def weight_dataset(
+    weights: dict[str, float],
+    file_path: str = "Work & Travel normalized.xlsx",
+    max_living_cost: float | None = None,
+) -> pd.DataFrame:
+    """
+    Apply user-defined weights to a normalized dataset and compute composite score.
+
+    Parameters
+    ----------
+    weights : Mapping[str, float]
+        Dictionary mapping column name -> importance weight.
+        Values may be any positive numbers (they will be normalized).
+    file_path : str
+        Excel file name located inside DATA_DIR.
+    max_living_cost : float | None
+        Optional filter threshold for 'Cost of living'.
+
+    Returns
+    -------
+    pd.DataFrame
+        Ranked dataframe with Composite Score.
+    """
+
     file_path = f"{DATA_DIR}/{file_path}"
     df = pd.read_excel(file_path)
+
     columns = [
         "Cost of living",
         "English speaking %",
@@ -123,37 +146,66 @@ def weight_dataset(file_path="Work & Travel normalized.xlsx"):
         "Infrastructure score",
         "Visa required",
     ]
-    # descending importance (rank-based)
-    raw_weights = np.arange(len(columns), 0, -1)
-    # normalize so sum = 1
-    weights = raw_weights / raw_weights.sum()
-    weight_series = pd.Series(weights, index=columns)
+
+    # ---- validation ---------------------------------------------------------
+
+    missing = set(columns) - set(weights)
+    extra = set(weights) - set(columns)
+
+    if missing:
+        raise ValueError(f"Missing weights for columns: {sorted(missing)}")
+    if extra:
+        raise ValueError(f"Unknown weight keys provided: {sorted(extra)}")
+
+    weight_series = pd.Series(weights, dtype=float)
+
+    if (weight_series < 0).any():
+        raise ValueError("Weights must be non-negative.")
+
+    if weight_series.sum() == 0:
+        raise ValueError("At least one weight must be > 0.")
+
+    # ---- normalize weights --------------------------------------------------
+
+    weight_series = weight_series / weight_series.sum()
     print(weight_series)
-    print(df[columns].mul(weight_series))
-    df["Composite Score"] = df[columns].mul(weight_series).sum(axis=1)
-    df = df.sort_values("Composite Score", ascending=False)
-    print(df)
+
+    # ---- optional filtering -------------------------------------------------
+
+    if max_living_cost is not None:
+        df = df[df["Cost of living"] <= max_living_cost]
+
+    # ---- compute weighted score --------------------------------------------
+
+    df["Composite Score"] = df[columns].mul(weight_series, axis=1).sum(axis=1)
+
+    df = df.sort_values("Composite Score", ascending=False).reset_index(drop=True)
+
+    # ---- save ---------------------------------------------------------------
+
     suffix = "(weighted, no living cost limits)"
-    if max_living_cost:
+    if max_living_cost is not None:
         suffix = f"(weighted, up to {max_living_cost} per month)"
-    df.to_excel(f"Work & Travel {suffix}.xlsx")
 
+    print(df)
+    output = f"Work & Travel {suffix}.xlsx"
+    df.to_excel(output, index=False)
 
-def find_best_counties(file_path="Work & Travel normalized.xlsx"):
-    file_path = f"{DATA_DIR}/{file_path}"
-    df_normalized = pd.read_excel(file_path)
-    df_normalized["Mean"] = df_normalized.mean(axis=1, numeric_only=True)
-    suffix = "(mean, no living cost limits)"
-    if max_living_cost:
-        suffix = f"(mean, up to {max_living_cost} per month)"
-    df_normalized = df_normalized.sort_values("Mean", ascending=False)
-    print(df_normalized)
-    df_normalized.to_excel(f"Work & Travel {suffix}.xlsx")
+    return df
 
 
 if __name__ == "__main__":
     max_living_cost = 1500
     # merge_sheets()
     normalize_data(max_living_cost=max_living_cost)
-    find_best_counties()
-    weight_dataset()
+
+    weights = {
+        "Cost of living": 70,
+        "English speaking %": 60,
+        "Safety Score": 60,
+        "Healthcare Index (Ceoword)": 50,
+        "% of Population Using Internet": 50,
+        "Infrastructure score": 60,
+        "Visa required": 30,
+    }
+    weight_dataset(weights, max_living_cost=max_living_cost)
