@@ -1,0 +1,1358 @@
+{
+    "draw": 2,
+    "recordsTotal": 193,
+    "recordsFiltered": 193,
+    "data": [
+        [
+            1,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/north-america\/united-states'>United States<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/north-america'>North America<\/a>",
+            "98.41",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"98.4073034302\" style=\"width: 98.4073034302%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            2,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/europe\/italy'>Italy<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/europe'>Europe<\/a>",
+            "96.00",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"95.9983624853\" style=\"width: 95.9983624853%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            3,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/asia\/japan'>Japan<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/asia'>Asia<\/a>",
+            "95.58",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"95.5784372537\" style=\"width: 95.5784372537%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            4,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/europe\/spain'>Spain<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/europe'>Europe<\/a>",
+            "94.47",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"94.4747093287\" style=\"width: 94.4747093287%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            5,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/europe\/france'>France<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/europe'>Europe<\/a>",
+            "93.88",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"93.8802609397\" style=\"width: 93.8802609397%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            6,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/europe\/united-kingdom'>United Kingdom<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/europe'>Europe<\/a>",
+            "93.45",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"93.4515197802\" style=\"width: 93.4515197802%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            7,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/south-america\/brazil'>Brazil<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/south-america'>South America<\/a>",
+            "91.66",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"91.6602615017\" style=\"width: 91.6602615017%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            8,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/north-america\/canada'>Canada<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/north-america'>North America<\/a>",
+            "91.23",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"91.2310442877\" style=\"width: 91.2310442877%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            9,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/oceania\/australia'>Australia<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/oceania'>Oceania<\/a>",
+            "91.12",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"91.1159443499\" style=\"width: 91.1159443499%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            10,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/europe\/germany'>Germany<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/europe'>Europe<\/a>",
+            "90.97",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"90.9682295816\" style=\"width: 90.9682295816%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            11,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/europe\/portugal'>Portugal<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/europe'>Europe<\/a>",
+            "90.22",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"90.2169597812\" style=\"width: 90.2169597812%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            12,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/north-america\/mexico'>Mexico<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/north-america'>North America<\/a>",
+            "89.51",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"89.5093535788\" style=\"width: 89.5093535788%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            13,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/asia\/china'>China<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/asia'>Asia<\/a>",
+            "88.31",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"88.3121627457\" style=\"width: 88.3121627457%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            14,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/europe\/greece'>Greece<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/europe'>Europe<\/a>",
+            "88.17",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"88.1685402861\" style=\"width: 88.1685402861%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            15,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/asia\/thailand'>Thailand<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/asia'>Asia<\/a>",
+            "87.47",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"87.4736308628\" style=\"width: 87.4736308628%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            16,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/europe\/netherlands'>Netherlands<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/europe'>Europe<\/a>",
+            "86.89",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"86.8853333741\" style=\"width: 86.8853333741%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            17,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/europe\/switzerland'>Switzerland<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/europe'>Europe<\/a>",
+            "86.88",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"86.8789747342\" style=\"width: 86.8789747342%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            18,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/europe\/russia'>Russia<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/europe'>Europe<\/a>",
+            "86.77",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"86.7713495331\" style=\"width: 86.7713495331%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            19,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/asia\/india'>India<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/asia'>Asia<\/a>",
+            "86.46",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"86.4623253755\" style=\"width: 86.4623253755%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            20,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/asia\/south-korea'>South Korea<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/asia'>Asia<\/a>",
+            "86.28",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"86.2794859511\" style=\"width: 86.2794859511%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            21,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/europe\/austria'>Austria<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/europe'>Europe<\/a>",
+            "86.20",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"86.1973145211\" style=\"width: 86.1973145211%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            22,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/asia\/indonesia'>Indonesia<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/asia'>Asia<\/a>",
+            "85.90",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"85.8952496962\" style=\"width: 85.8952496962%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            23,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/middle-east\/turkey'>Turkey<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/middle-east'>Middle East<\/a>",
+            "85.64",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"85.6357427801\" style=\"width: 85.6357427801%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            24,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/europe\/denmark'>Denmark<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/europe'>Europe<\/a>",
+            "85.40",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"85.4013938772\" style=\"width: 85.4013938772%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            25,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/asia\/malaysia'>Malaysia<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/asia'>Asia<\/a>",
+            "85.36",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"85.3621726407\" style=\"width: 85.3621726407%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            26,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/europe\/poland'>Poland<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/europe'>Europe<\/a>",
+            "85.27",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"85.2665818859\" style=\"width: 85.2665818859%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            27,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/europe\/belgium'>Belgium<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/europe'>Europe<\/a>",
+            "85.25",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"85.2519432891\" style=\"width: 85.2519432891%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            28,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/europe\/ireland'>Ireland<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/europe'>Europe<\/a>",
+            "85.21",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"85.2066907607\" style=\"width: 85.2066907607%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            29,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/south-america\/argentina'>Argentina<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/south-america'>South America<\/a>",
+            "85.06",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"85.0649714373\" style=\"width: 85.0649714373%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            30,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/europe\/czech-republic'>Czech Republic<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/europe'>Europe<\/a>",
+            "84.88",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"84.8842436664\" style=\"width: 84.8842436664%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            31,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/europe\/sweden'>Sweden<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/europe'>Europe<\/a>",
+            "84.65",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"84.651270025\" style=\"width: 84.651270025%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            32,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/oceania\/new-zealand'>New Zealand<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/oceania'>Oceania<\/a>",
+            "84.30",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"84.3048946511\" style=\"width: 84.3048946511%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            33,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/asia\/vietnam'>Vietnam<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/asia'>Asia<\/a>",
+            "84.02",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"84.0187286507\" style=\"width: 84.0187286507%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            34,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/south-america\/chile'>Chile<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/south-america'>South America<\/a>",
+            "83.42",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"83.4205681845\" style=\"width: 83.4205681845%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            35,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/south-america\/colombia'>Colombia<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/south-america'>South America<\/a>",
+            "83.25",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"83.2511318114\" style=\"width: 83.2511318114%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            36,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/europe\/croatia'>Croatia<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/europe'>Europe<\/a>",
+            "82.71",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"82.7067172952\" style=\"width: 82.7067172952%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            37,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/europe\/norway'>Norway<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/europe'>Europe<\/a>",
+            "82.68",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"82.6825785984\" style=\"width: 82.6825785984%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            38,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/asia\/philippines'>Philippines<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/asia'>Asia<\/a>",
+            "82.48",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"82.4785240113\" style=\"width: 82.4785240113%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            39,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/south-america\/peru'>Peru<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/south-america'>South America<\/a>",
+            "82.07",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"82.0685392026\" style=\"width: 82.0685392026%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            40,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/asia\/singapore'>Singapore<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/asia'>Asia<\/a>",
+            "81.96",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"81.9587673938\" style=\"width: 81.9587673938%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            41,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/europe\/finland'>Finland<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/europe'>Europe<\/a>",
+            "81.74",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"81.7448004629\" style=\"width: 81.7448004629%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            42,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/middle-east\/israel'>Israel<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/middle-east'>Middle East<\/a>",
+            "81.71",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"81.7138901298\" style=\"width: 81.7138901298%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            43,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/africa\/south-africa'>South Africa<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/africa'>Africa<\/a>",
+            "81.04",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"81.0391934531\" style=\"width: 81.0391934531%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            44,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/europe\/romania'>Romania<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/europe'>Europe<\/a>",
+            "81.00",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"80.9966208592\" style=\"width: 80.9966208592%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            45,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/europe\/hungary'>Hungary<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/europe'>Europe<\/a>",
+            "80.73",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"80.726570491\" style=\"width: 80.726570491%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            46,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/middle-east\/united-arab-emirates'>United Arab Emirates<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/middle-east'>Middle East<\/a>",
+            "80.61",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"80.6083695514\" style=\"width: 80.6083695514%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            47,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/north-america\/costa-rica'>Costa Rica<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/north-america'>North America<\/a>",
+            "79.64",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"79.6438459015\" style=\"width: 79.6438459015%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            48,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/europe\/ukraine'>Ukraine<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/europe'>Europe<\/a>",
+            "79.42",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"79.419232557\" style=\"width: 79.419232557%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            49,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/south-america\/ecuador'>Ecuador<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/south-america'>South America<\/a>",
+            "78.98",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"78.9773419889\" style=\"width: 78.9773419889%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            50,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/europe\/bulgaria'>Bulgaria<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/europe'>Europe<\/a>",
+            "78.74",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"78.7414645814\" style=\"width: 78.7414645814%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            51,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/europe\/slovenia'>Slovenia<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/europe'>Europe<\/a>",
+            "78.57",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"78.5698929884\" style=\"width: 78.5698929884%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            52,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/europe\/georgia'>Georgia<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/europe'>Europe<\/a>",
+            "78.56",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"78.5636162175\" style=\"width: 78.5636162175%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            53,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/middle-east\/cyprus'>Cyprus<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/middle-east'>Middle East<\/a>",
+            "78.56",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"78.5570798251\" style=\"width: 78.5570798251%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            54,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/europe\/slovakia'>Slovakia<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/europe'>Europe<\/a>",
+            "76.98",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"76.9829846543\" style=\"width: 76.9829846543%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            55,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/asia\/sri-lanka'>Sri Lanka<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/asia'>Asia<\/a>",
+            "76.47",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"76.4691632188\" style=\"width: 76.4691632188%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            56,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/europe\/estonia'>Estonia<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/europe'>Europe<\/a>",
+            "76.28",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"76.2798523805\" style=\"width: 76.2798523805%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            57,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/africa\/morocco'>Morocco<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/africa'>Africa<\/a>",
+            "76.19",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"76.1914254697\" style=\"width: 76.1914254697%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            58,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/europe\/serbia'>Serbia<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/europe'>Europe<\/a>",
+            "76.12",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"76.1160310742\" style=\"width: 76.1160310742%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            59,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/europe\/lithuania'>Lithuania<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/europe'>Europe<\/a>",
+            "76.03",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"76.0306567477\" style=\"width: 76.0306567477%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            60,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/europe\/iceland'>Iceland<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/europe'>Europe<\/a>",
+            "75.19",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"75.1910060355\" style=\"width: 75.1910060355%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            61,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/middle-east\/egypt'>Egypt<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/middle-east'>Middle East<\/a>",
+            "75.03",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"75.0293633259\" style=\"width: 75.0293633259%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            62,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/south-america\/uruguay'>Uruguay<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/south-america'>South America<\/a>",
+            "74.96",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"74.9598285154\" style=\"width: 74.9598285154%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            63,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/europe\/latvia'>Latvia<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/europe'>Europe<\/a>",
+            "74.87",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"74.8707366884\" style=\"width: 74.8707366884%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            64,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/caribbean\/dominican-republic'>Dominican Republic<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/caribbean'>Caribbean<\/a>",
+            "74.50",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"74.5038851851\" style=\"width: 74.5038851851%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            65,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/middle-east\/saudi-arabia'>Saudi Arabia<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/middle-east'>Middle East<\/a>",
+            "73.42",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"73.42435406\" style=\"width: 73.42435406%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            66,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/asia\/cambodia'>Cambodia<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/asia'>Asia<\/a>",
+            "73.11",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"73.108056079\" style=\"width: 73.108056079%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            67,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/europe\/bosnia-and-herzegovina'>Bosnia and Herzegovina<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/europe'>Europe<\/a>",
+            "72.81",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"72.8141744789\" style=\"width: 72.8141744789%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            68,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/north-america\/panama'>Panama<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/north-america'>North America<\/a>",
+            "72.78",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"72.776255581\" style=\"width: 72.776255581%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            69,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/middle-east\/kuwait'>Kuwait<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/middle-east'>Middle East<\/a>",
+            "72.68",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"72.6818055245\" style=\"width: 72.6818055245%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            70,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/europe\/malta'>Malta<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/europe'>Europe<\/a>",
+            "72.55",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"72.5513736247\" style=\"width: 72.5513736247%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            71,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/asia\/nepal'>Nepal<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/asia'>Asia<\/a>",
+            "72.30",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"72.3045558878\" style=\"width: 72.3045558878%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            72,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/europe\/albania'>Albania<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/europe'>Europe<\/a>",
+            "72.14",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"72.1360167185\" style=\"width: 72.1360167185%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            73,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/europe\/luxembourg'>Luxembourg<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/europe'>Europe<\/a>",
+            "72.13",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"72.1293668617\" style=\"width: 72.1293668617%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            74,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/caribbean\/the-bahamas'>The Bahamas<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/caribbean'>Caribbean<\/a>",
+            "72.02",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"72.0177370554\" style=\"width: 72.0177370554%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            75,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/middle-east\/iran'>Iran<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/middle-east'>Middle East<\/a>",
+            "71.67",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"71.6672527668\" style=\"width: 71.6672527668%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            76,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/europe\/montenegro'>Montenegro<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/europe'>Europe<\/a>",
+            "71.53",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"71.5332892574\" style=\"width: 71.5332892574%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            77,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/south-america\/bolivia'>Bolivia<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/south-america'>South America<\/a>",
+            "71.11",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"71.1134613008\" style=\"width: 71.1134613008%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            78,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/north-america\/guatemala'>Guatemala<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/north-america'>North America<\/a>",
+            "71.03",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"71.0325521896\" style=\"width: 71.0325521896%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            79,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/asia\/kazakhstan'>Kazakhstan<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/asia'>Asia<\/a>",
+            "70.65",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"70.6540501624\" style=\"width: 70.6540501624%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            80,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/south-america\/venezuela'>Venezuela<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/south-america'>South America<\/a>",
+            "70.61",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"70.6072850259\" style=\"width: 70.6072850259%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            81,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/caribbean\/jamaica'>Jamaica<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/caribbean'>Caribbean<\/a>",
+            "70.43",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"70.4311849997\" style=\"width: 70.4311849997%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            82,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/middle-east\/jordan'>Jordan<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/middle-east'>Middle East<\/a>",
+            "69.96",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"69.9633078142\" style=\"width: 69.9633078142%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            83,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/south-america\/paraguay'>Paraguay<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/south-america'>South America<\/a>",
+            "69.83",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"69.8304508176\" style=\"width: 69.8304508176%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            84,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/asia\/pakistan'>Pakistan<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/asia'>Asia<\/a>",
+            "69.79",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"69.7929789503\" style=\"width: 69.7929789503%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            85,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/europe\/belarus'>Belarus<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/europe'>Europe<\/a>",
+            "69.71",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"69.7106220252\" style=\"width: 69.7106220252%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            86,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/africa\/kenya'>Kenya<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/africa'>Africa<\/a>",
+            "69.64",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"69.6423446164\" style=\"width: 69.6423446164%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            87,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/europe\/armenia'>Armenia<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/europe'>Europe<\/a>",
+            "69.36",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"69.3648049655\" style=\"width: 69.3648049655%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            88,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/africa\/mauritius'>Mauritius<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/africa'>Africa<\/a>",
+            "69.18",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"69.1841352404\" style=\"width: 69.1841352404%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            89,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/asia\/myanmar'>Myanmar<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/asia'>Asia<\/a>",
+            "68.95",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"68.954552112\" style=\"width: 68.954552112%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            90,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/africa\/tunisia'>Tunisia<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/africa'>Africa<\/a>",
+            "68.79",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"68.7866186472\" style=\"width: 68.7866186472%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            91,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/europe\/andorra'>Andorra<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/europe'>Europe<\/a>",
+            "68.75",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"68.7530015599\" style=\"width: 68.7530015599%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            92,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/north-america\/belize'>Belize<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/north-america'>North America<\/a>",
+            "68.16",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"68.1604737135\" style=\"width: 68.1604737135%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            93,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/europe\/north-macedonia'>North Macedonia<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/europe'>Europe<\/a>",
+            "67.93",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"67.9343617378\" style=\"width: 67.9343617378%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            94,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/middle-east\/lebanon'>Lebanon<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/middle-east'>Middle East<\/a>",
+            "67.92",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"67.9245177977\" style=\"width: 67.9245177977%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            95,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/caribbean\/barbados'>Barbados<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/caribbean'>Caribbean<\/a>",
+            "67.77",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"67.7686470252\" style=\"width: 67.7686470252%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            96,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/north-america\/nicaragua'>Nicaragua<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/north-america'>North America<\/a>",
+            "67.65",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"67.6501277417\" style=\"width: 67.6501277417%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            97,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/europe\/azerbaijan'>Azerbaijan<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/europe'>Europe<\/a>",
+            "67.29",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"67.2851436566\" style=\"width: 67.2851436566%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            98,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/north-america\/honduras'>Honduras<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/north-america'>North America<\/a>",
+            "67.23",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"67.227325211\" style=\"width: 67.227325211%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            99,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/asia\/laos'>Laos<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/asia'>Asia<\/a>",
+            "66.83",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"66.8293840106\" style=\"width: 66.8293840106%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            100,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/caribbean\/trinidad-and-tobago'>Trinidad and Tobago<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/caribbean'>Caribbean<\/a>",
+            "66.57",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"66.5679502735\" style=\"width: 66.5679502735%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            101,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/middle-east\/oman'>Oman<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/middle-east'>Middle East<\/a>",
+            "66.48",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"66.4847236324\" style=\"width: 66.4847236324%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            102,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/north-america\/el-salvador'>El Salvador<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/north-america'>North America<\/a>",
+            "65.95",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"65.9505261162\" style=\"width: 65.9505261162%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            103,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/africa\/tanzania'>Tanzania<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/africa'>Africa<\/a>",
+            "65.93",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"65.9315031858\" style=\"width: 65.9315031858%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            104,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/middle-east\/qatar'>Qatar<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/middle-east'>Middle East<\/a>",
+            "65.72",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"65.7182052003\" style=\"width: 65.7182052003%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            105,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/africa\/zimbabwe'>Zimbabwe<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/africa'>Africa<\/a>",
+            "65.45",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"65.4514187493\" style=\"width: 65.4514187493%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            106,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/caribbean\/cuba'>Cuba<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/caribbean'>Caribbean<\/a>",
+            "65.22",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"65.2235279037\" style=\"width: 65.2235279037%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            107,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/africa\/nigeria'>Nigeria<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/africa'>Africa<\/a>",
+            "65.09",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"65.0903610732\" style=\"width: 65.0903610732%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            108,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/middle-east\/bahrain'>Bahrain<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/middle-east'>Middle East<\/a>",
+            "64.88",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"64.8766981954\" style=\"width: 64.8766981954%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            109,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/asia\/bangladesh'>Bangladesh<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/asia'>Asia<\/a>",
+            "64.45",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"64.4505880605\" style=\"width: 64.4505880605%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            110,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/africa\/ghana'>Ghana<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/africa'>Africa<\/a>",
+            "63.65",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"63.6478562394\" style=\"width: 63.6478562394%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            111,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/europe\/moldova'>Moldova<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/europe'>Europe<\/a>",
+            "63.55",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"63.5518566162\" style=\"width: 63.5518566162%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            112,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/europe\/monaco'>Monaco<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/europe'>Europe<\/a>",
+            "63.30",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"63.296971364\" style=\"width: 63.296971364%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            113,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/asia\/brunei'>Brunei<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/asia'>Asia<\/a>",
+            "63.25",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"63.254640999\" style=\"width: 63.254640999%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            114,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/africa\/cape-verde'>Cape Verde<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/africa'>Africa<\/a>",
+            "62.39",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"62.3864671769\" style=\"width: 62.3864671769%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            115,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/caribbean\/antigua-and-barbuda'>Antigua and Barbuda<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/caribbean'>Caribbean<\/a>",
+            "62.26",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"62.2577369944\" style=\"width: 62.2577369944%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            116,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/asia\/maldives'>Maldives<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/asia'>Asia<\/a>",
+            "62.15",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"62.151796593\" style=\"width: 62.151796593%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            117,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/asia\/uzbekistan'>Uzbekistan<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/asia'>Asia<\/a>",
+            "62.07",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"62.0702207815\" style=\"width: 62.0702207815%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            118,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/asia\/kyrgyzstan'>Kyrgyzstan<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/asia'>Asia<\/a>",
+            "61.96",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"61.9574976341\" style=\"width: 61.9574976341%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            119,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/africa\/uganda'>Uganda<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/africa'>Africa<\/a>",
+            "61.61",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"61.6148704145\" style=\"width: 61.6148704145%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            120,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/africa\/algeria'>Algeria<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/africa'>Africa<\/a>",
+            "61.40",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"61.4014914279\" style=\"width: 61.4014914279%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            121,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/africa\/namibia'>Namibia<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/africa'>Africa<\/a>",
+            "61.38",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"61.3786313085\" style=\"width: 61.3786313085%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            122,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/oceania\/fiji'>Fiji<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/oceania'>Oceania<\/a>",
+            "61.35",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"61.3543560313\" style=\"width: 61.3543560313%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            123,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/asia\/mongolia'>Mongolia<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/asia'>Asia<\/a>",
+            "61.03",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"61.027673672\" style=\"width: 61.027673672%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            124,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/caribbean\/saint-kitts-and-nevis'>Saint Kitts and Nevis<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/caribbean'>Caribbean<\/a>",
+            "60.65",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"60.645424124\" style=\"width: 60.645424124%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            125,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/caribbean\/grenada'>Grenada<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/caribbean'>Caribbean<\/a>",
+            "60.58",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"60.58142451\" style=\"width: 60.58142451%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            126,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/middle-east\/iraq'>Iraq<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/middle-east'>Middle East<\/a>",
+            "59.95",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"59.9530577134\" style=\"width: 59.9530577134%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            127,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/africa\/seychelles'>Seychelles<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/africa'>Africa<\/a>",
+            "59.58",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"59.5836641587\" style=\"width: 59.5836641587%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            128,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/caribbean\/saint-lucia'>Saint Lucia<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/caribbean'>Caribbean<\/a>",
+            "59.18",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"59.1767262465\" style=\"width: 59.1767262465%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            129,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/africa\/cote-d-ivoire'>C\u00f4te d'Ivoire<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/africa'>Africa<\/a>",
+            "57.46",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"57.4634727408\" style=\"width: 57.4634727408%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            130,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/europe\/san-marino'>San Marino<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/europe'>Europe<\/a>",
+            "57.37",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"57.3694904501\" style=\"width: 57.3694904501%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            131,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/asia\/bhutan'>Bhutan<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/asia'>Asia<\/a>",
+            "57.23",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"57.2288897365\" style=\"width: 57.2288897365%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            132,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/africa\/ethiopia'>Ethiopia<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/africa'>Africa<\/a>",
+            "57.00",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"57.0025285411\" style=\"width: 57.0025285411%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            133,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/oceania\/cook-islands'>Cook Islands<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/oceania'>Oceania<\/a>",
+            "57.00",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"56.9966864313\" style=\"width: 56.9966864313%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            134,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/africa\/senegal'>Senegal<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/africa'>Africa<\/a>",
+            "56.96",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"56.9576608088\" style=\"width: 56.9576608088%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            135,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/africa\/rwanda'>Rwanda<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/africa'>Africa<\/a>",
+            "56.79",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"56.7919738834\" style=\"width: 56.7919738834%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            136,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/africa\/botswana'>Botswana<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/africa'>Africa<\/a>",
+            "56.33",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"56.3301831993\" style=\"width: 56.3301831993%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            137,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/africa\/madagascar'>Madagascar<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/africa'>Africa<\/a>",
+            "56.18",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"56.1804945039\" style=\"width: 56.1804945039%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            138,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/africa\/mozambique'>Mozambique<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/africa'>Africa<\/a>",
+            "56.03",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"56.0258508907\" style=\"width: 56.0258508907%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            139,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/africa\/zambia'>Zambia<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/africa'>Africa<\/a>",
+            "55.89",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"55.8879813113\" style=\"width: 55.8879813113%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            140,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/caribbean\/saint-vincent-and-the-grenadines'>Saint Vincent and the Grenadines<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/caribbean'>Caribbean<\/a>",
+            "55.87",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"55.8655467487\" style=\"width: 55.8655467487%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            141,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/caribbean\/haiti'>Haiti<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/caribbean'>Caribbean<\/a>",
+            "54.44",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"54.438279218\" style=\"width: 54.438279218%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            142,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/oceania\/vanuatu'>Vanuatu<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/oceania'>Oceania<\/a>",
+            "53.47",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"53.4716990324\" style=\"width: 53.4716990324%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            143,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/caribbean\/dominica'>Dominica<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/caribbean'>Caribbean<\/a>",
+            "52.83",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"52.8270176178\" style=\"width: 52.8270176178%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            144,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/south-america\/suriname'>Suriname<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/south-america'>South America<\/a>",
+            "52.80",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"52.8009660755\" style=\"width: 52.8009660755%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            145,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/africa\/benin'>Benin<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/africa'>Africa<\/a>",
+            "52.71",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"52.7137184702\" style=\"width: 52.7137184702%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            146,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/south-america\/guyana'>Guyana<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/south-america'>South America<\/a>",
+            "52.59",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"52.5898029817\" style=\"width: 52.5898029817%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            147,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/africa\/cameroon'>Cameroon<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/africa'>Africa<\/a>",
+            "52.49",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"52.4942599041\" style=\"width: 52.4942599041%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            148,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/middle-east\/syria'>Syria<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/middle-east'>Middle East<\/a>",
+            "52.47",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"52.4747133997\" style=\"width: 52.4747133997%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            149,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/asia\/tajikistan'>Tajikistan<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/asia'>Asia<\/a>",
+            "52.35",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"52.3453922837\" style=\"width: 52.3453922837%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            150,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/africa\/togo'>Togo<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/africa'>Africa<\/a>",
+            "51.28",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"51.2760879372\" style=\"width: 51.2760879372%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            151,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/oceania\/samoa'>Samoa<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/oceania'>Oceania<\/a>",
+            "51.26",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"51.2561253717\" style=\"width: 51.2561253717%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            152,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/africa\/the-gambia'>The Gambia<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/africa'>Africa<\/a>",
+            "50.55",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"50.5493303776\" style=\"width: 50.5493303776%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            153,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/africa\/democratic-republic-of-the-congo'>Democratic Republic of the Congo<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/africa'>Africa<\/a>",
+            "50.35",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"50.3496890233\" style=\"width: 50.3496890233%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            154,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/oceania\/palau'>Palau<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/oceania'>Oceania<\/a>",
+            "49.99",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"49.9938120174\" style=\"width: 49.9938120174%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            155,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/africa\/angola'>Angola<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/africa'>Africa<\/a>",
+            "49.95",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"49.9529596701\" style=\"width: 49.9529596701%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            156,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/africa\/libya'>Libya<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/africa'>Africa<\/a>",
+            "49.72",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"49.7185551725\" style=\"width: 49.7185551725%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            157,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/africa\/gabon'>Gabon<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/africa'>Africa<\/a>",
+            "49.03",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"49.0306209172\" style=\"width: 49.0306209172%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            158,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/africa\/sudan'>Sudan<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/africa'>Africa<\/a>",
+            "47.78",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"47.7786513102\" style=\"width: 47.7786513102%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            159,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/africa\/burkina-faso'>Burkina Faso<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/africa'>Africa<\/a>",
+            "47.73",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"47.7291018795\" style=\"width: 47.7291018795%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            160,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/asia\/turkmenistan'>Turkmenistan<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/asia'>Asia<\/a>",
+            "47.47",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"47.4688673737\" style=\"width: 47.4688673737%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            161,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/asia\/timor-leste'>Timor-Leste<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/asia'>Asia<\/a>",
+            "46.51",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"46.5145917172\" style=\"width: 46.5145917172%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            162,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/oceania\/papua-new-guinea'>Papua New Guinea<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/oceania'>Oceania<\/a>",
+            "45.67",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"45.6716740915\" style=\"width: 45.6716740915%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            163,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/africa\/malawi'>Malawi<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/africa'>Africa<\/a>",
+            "45.59",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"45.5896154664\" style=\"width: 45.5896154664%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            164,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/africa\/liberia'>Liberia<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/africa'>Africa<\/a>",
+            "44.98",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"44.9753422142\" style=\"width: 44.9753422142%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            165,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/oceania\/tonga'>Tonga<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/oceania'>Oceania<\/a>",
+            "44.86",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"44.8602949588\" style=\"width: 44.8602949588%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            166,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/africa\/mali'>Mali<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/africa'>Africa<\/a>",
+            "44.34",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"44.3439513987\" style=\"width: 44.3439513987%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            167,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/africa\/somalia'>Somalia<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/africa'>Africa<\/a>",
+            "43.91",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"43.9070530794\" style=\"width: 43.9070530794%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            168,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/africa\/eswatini'>Eswatini<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/africa'>Africa<\/a>",
+            "43.79",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"43.7878249085\" style=\"width: 43.7878249085%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            169,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/middle-east\/yemen'>Yemen<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/middle-east'>Middle East<\/a>",
+            "43.00",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"43.0024772113\" style=\"width: 43.0024772113%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            170,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/africa\/sao-tome-and-principe'>S\u00e3o Tom\u00e9 and Pr\u00edncipe<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/africa'>Africa<\/a>",
+            "42.71",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"42.70996539\" style=\"width: 42.70996539%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            171,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/africa\/lesotho'>Lesotho<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/africa'>Africa<\/a>",
+            "41.28",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"41.2819007705\" style=\"width: 41.2819007705%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            172,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/africa\/mauritania'>Mauritania<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/africa'>Africa<\/a>",
+            "41.13",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"41.1254129705\" style=\"width: 41.1254129705%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            173,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/oceania\/solomon-islands'>Solomon Islands<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/oceania'>Oceania<\/a>",
+            "39.58",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"39.5800694003\" style=\"width: 39.5800694003%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            174,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/oceania\/micronesia'>Micronesia<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/oceania'>Oceania<\/a>",
+            "39.10",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"39.1049149414\" style=\"width: 39.1049149414%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            175,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/africa\/sierra-leone'>Sierra Leone<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/africa'>Africa<\/a>",
+            "38.90",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"38.9027871527\" style=\"width: 38.9027871527%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            176,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/africa\/djibouti'>Djibouti<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/africa'>Africa<\/a>",
+            "38.54",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"38.5417133089\" style=\"width: 38.5417133089%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            177,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/africa\/republic-of-the-congo'>Republic of the Congo<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/africa'>Africa<\/a>",
+            "37.49",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"37.4884140813\" style=\"width: 37.4884140813%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            178,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/africa\/niger'>Niger<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/africa'>Africa<\/a>",
+            "37.41",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"37.4107980003\" style=\"width: 37.4107980003%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            179,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/africa\/equatorial-guinea'>Equatorial Guinea<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/africa'>Africa<\/a>",
+            "37.13",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"37.1286046538\" style=\"width: 37.1286046538%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            180,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/africa\/burundi'>Burundi<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/africa'>Africa<\/a>",
+            "36.99",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"36.9934566227\" style=\"width: 36.9934566227%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            181,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/asia\/afghanistan'>Afghanistan<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/asia'>Asia<\/a>",
+            "35.00",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"34.995140558\" style=\"width: 34.995140558%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            182,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/africa\/guinea'>Guinea<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/africa'>Africa<\/a>",
+            "34.28",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"34.2787803015\" style=\"width: 34.2787803015%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            183,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/africa\/eritrea'>Eritrea<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/africa'>Africa<\/a>",
+            "33.44",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"33.4387613758\" style=\"width: 33.4387613758%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            184,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/asia\/north-korea'>North Korea<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/asia'>Asia<\/a>",
+            "32.52",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"32.5186873085\" style=\"width: 32.5186873085%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            185,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/africa\/comoros'>Comoros<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/africa'>Africa<\/a>",
+            "30.64",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"30.6364509394\" style=\"width: 30.6364509394%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            186,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/africa\/chad'>Chad<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/africa'>Africa<\/a>",
+            "30.11",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"30.1057521877\" style=\"width: 30.1057521877%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            187,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/africa\/guinea-bissau'>Guinea-Bissau<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/africa'>Africa<\/a>",
+            "29.68",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"29.6842323435\" style=\"width: 29.6842323435%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            188,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/africa\/central-african-republic'>Central African Republic<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/africa'>Africa<\/a>",
+            "27.86",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"27.8642751306\" style=\"width: 27.8642751306%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            189,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/oceania\/marshall-islands'>Marshall Islands<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/oceania'>Oceania<\/a>",
+            "27.71",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"27.7125567015\" style=\"width: 27.7125567015%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            190,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/africa\/south-sudan'>South Sudan<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/africa'>Africa<\/a>",
+            "25.55",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"25.5470134407\" style=\"width: 25.5470134407%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            191,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/oceania\/nauru'>Nauru<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/oceania'>Oceania<\/a>",
+            "18.55",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"18.5537789858\" style=\"width: 18.5537789858%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            192,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/oceania\/kiribati'>Kiribati<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/oceania'>Oceania<\/a>",
+            "18.09",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"18.0944173871\" style=\"width: 18.0944173871%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ],
+        [
+            193,
+            "<a href='https:\/\/theworldtravelindex.com\/en\/oceania\/tuvalu'>Tuvalu<\/a>",
+            "<a href='https:\/\/theworldtravelindex.com\/en\/oceania'>Oceania<\/a>",
+            "13.84",
+            "<div data=\"hh\" class=\"progress-bar shadow w-full bg-gray-300 rounded-sm mr-2\">\n                        <div data-width=\"13.8356550281\" style=\"width: 13.8356550281%;\"\n                             class=\"rounded-sm bg-blue-800 text-xs leading-none py-3 text-center text-white\">\n                        <\/div>\n                    <\/div>"
+        ]
+    ]
+}
